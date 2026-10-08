@@ -1,6 +1,6 @@
-<p align="center">꧁──────ஓ๑♡๑ஓ──────꧂</p>
+<p align="center">︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶⊹︶︶</p>
 <img width="1024" height="564" alt="image" src="https://github.com/user-attachments/assets/4099c3e2-8af8-4215-bd4d-10b7eda0aee1" />
-<p align="center">⊹˚₊‧───────────────────────────────‧₊˚⊹</p>
+<p align="center">︶⊹︶︶୨୧︶︶⊹︶︶⊹︶︶୨୧︶︶⊹︶⊹︶︶</p>
 <!--
 **Bent-Fork/Bent-Fork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
